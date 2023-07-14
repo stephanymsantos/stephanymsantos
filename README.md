@@ -21,4 +21,5 @@ I am a student of Systems Analysis and Development at Estácio University, and I
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />          
 </div>
-  
+
+  ![snake gif](https://github.com/stephanymsantos/stephanymsantos/blob/output/github-contribution-grid-snake.svg)
