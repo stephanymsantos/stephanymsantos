@@ -22,11 +22,14 @@ I am a student of Systems Analysis and Development at Estácio University, and I
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />          
 </div>
 
+![Snake animation](https://github.com/stephanymsantos/stephanymsantos/blob/output/github-contribution-grid-snake.svg)
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
   <img alt="github-snake" src="github-snake.svg" />
 </picture>
+
 
 
           
