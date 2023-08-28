@@ -4,7 +4,7 @@ I am a student of Systems Analysis and Development at Estácio University, and I
 
 -  Currently, I am focused on deepening my knowledge in programming, and data analysis. I am exploring languages like Python, as well as popular frameworks and libraries such as Pandas and Scikit-learn.
   
--  I am always open to collaboration opportunities in interesting projects related to software development, data science, and data analysis. I enjoy working in teams, sharing knowledge, and contributing to innovative solutions.
+-  I am always open to collaboration opportunities in interesting projects related to data science, and data analysis. I enjoy working in teams, sharing knowledge, and contributing to innovative solutions.
 
   How to reach me:
 
