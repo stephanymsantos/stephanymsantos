@@ -25,7 +25,7 @@ I am a student of Systems Analysis and Development at Estácio University, and I
 ___________________________________________________________________________________________________________________________________________________________________________________
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
+
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=stephanymsantos&show_icons=true&count_private=true&hide_border=true&title_color=4B0082icon_color=9370DB&text_color=9370DB&bg_color=0d1117" alt="Stephany Santos github stats" /> 
