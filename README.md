@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a student of Systems Analysis and Development at Estácio University, and I am also studying data science. I am constantly improving my technical skills and seeking to learn new technologies and concepts.
+I am a student of Systems Analysis and Development , and I am also studying cybersecurity. I am constantly improving my technical skills and seeking to learn new technologies and concepts.
 
 -  Currently, I am focused on deepening my knowledge in programming, and data analysis. I am exploring languages like Python, as well as popular frameworks and libraries such as Pandas and Scikit-learn.
   
