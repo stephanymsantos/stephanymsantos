@@ -1,3 +1,6 @@
+<img width=100% bottom=50px src="https://github.com/user-attachments/assets/0c077d53-c802-473b-beb6-fc304b67a978"/>
+
+
 ### Hi there 👋
 
 I am a student of Systems Analysis and Development , and I am also studying cybersecurity. I am constantly improving my technical skills and seeking to learn new technologies and concepts.
