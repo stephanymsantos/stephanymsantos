@@ -27,8 +27,5 @@ I am a student of Systems Analysis and Development , and I am also studying cybe
 
 ___________________________________________________________________________________________________________________________________________________________________________________
 
-
-
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
   
 
